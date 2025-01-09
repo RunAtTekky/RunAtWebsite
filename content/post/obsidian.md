@@ -2,6 +2,7 @@
 title = 'Obsidian'
 date = 2025-01-10T00:05:17+05:30
 draft = false
+tags = ['Linux', 'Workflow', 'Tech']
 +++
 
 # Obsidian

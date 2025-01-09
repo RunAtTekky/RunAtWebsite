@@ -2,6 +2,7 @@
 title = 'Ranger'
 date = 2025-01-10T00:01:45+05:30
 draft = false
+tags = ['Linux', 'Workflow', 'Tech']
 +++
 
 # Ranger File Manager
