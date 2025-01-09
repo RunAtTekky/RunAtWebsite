@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://run-at-website.vercel.app/'
 languageCode = 'en-us'
 title = 'Varun Rawat'
 theme = 'github-style'
