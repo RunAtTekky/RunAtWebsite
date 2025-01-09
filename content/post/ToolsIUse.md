@@ -13,6 +13,9 @@ tags = ['Linux', 'Workflow', 'Tech']
 # Terminal Multiplexer
 - TMUX
 
+# File Manager
+- [Ranger](/post/ranger) (I want to switch to LF soon)
+
 # PDF Viewer
 - Zathura
 
@@ -24,7 +27,7 @@ tags = ['Linux', 'Workflow', 'Tech']
 - VSCode
 
 # Note Taking App
-- Obsidian
+- [Obsidian](/post/obsidian)
 
 # Video Player
 - MPV
