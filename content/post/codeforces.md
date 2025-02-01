@@ -33,3 +33,7 @@ CF: [Akarsh1412](https://codeforces.com/profile/Akarsh1412)
 
 LC: [Akarsh_1412](https://leetcode.com/u/Akarsh_1412/)
 ___
+Anush Jain
+
+CF: [gureka_mighty](https://codeforces.com/profile/gureka_mighty)
+___
