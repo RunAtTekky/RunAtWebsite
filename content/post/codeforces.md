@@ -23,15 +23,31 @@ CF: [shyam_raval](https://codeforces.com/profile/shyam_raval)
 
 LC: [shyam_raval](https://leetcode.com/u/shyam_raval/)
 ___
+Prakhar Verma
+
+CF: [Prakhar_Verma](https://codeforces.com/profile/Prakhar_Verma)
+___
 Rohan Rajput
 
 CF: [paasha_bhai](https://codeforces.com/profile/paasha_bhai)
+___
+Athrv Mittal
+
+CF: [Athrv1](https://codeforces.com/profile/Athrv1)
 ___
 Akarsh Kumar
 
 CF: [Akarsh1412](https://codeforces.com/profile/Akarsh1412)
 
 LC: [Akarsh_1412](https://leetcode.com/u/Akarsh_1412/)
+___
+Dnyanesh Kavate
+
+CF: [codefever1912](https://codeforces.com/profile/codefever1912)
+___
+Surya Pratap Singh
+
+CF: [surya45](https://codeforces.com/profile/surya45)
 ___
 Anush Jain
 
