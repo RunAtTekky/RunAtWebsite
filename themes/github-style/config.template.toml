@@ -6,7 +6,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "MeiK"
+  author = "RunAt"
   description = "In solitude, where we are least alone."
   github = "MeiK2333"
   facebook = "MeiK2333"
@@ -15,14 +15,14 @@ pygmentsUseClasses = true
   instagram = "MeiK2333"
   tumblr = "MeiK2333"
   email = "meik2333@gmail.com"
-  url = "https://meik2333.com"
+  url = "https://linktr.ee/runat"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
   favicon = "/images/github-mark.png"
   avatar = "/images/avatar.png"
-  headerIcon = "/images/github-mark-white.png"
-  location = "China"
+  headerIcon = "/images/avatar.png"
+  location = "India"
   userStatusEmoji = "😀"
   enableGitalk = true
   enableSearch = true
