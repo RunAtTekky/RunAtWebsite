@@ -8,12 +8,16 @@ draft = false
 
 This is the score of chess games between RunAt and Sike
 
+The person who has better score till one person gets placed will keep the chessbase premium chess set.
+
 |RunAt | Sike |
 |------|------|
 |1     |0     |
 
+___
+## Matches
 
-Matches
+<br /> <br />
 
 2025_02_03
 
