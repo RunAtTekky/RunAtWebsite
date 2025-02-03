@@ -52,4 +52,6 @@ ___
 Anush Jain
 
 CF: [gureka_mighty](https://codeforces.com/profile/gureka_mighty)
+
+LC: [whitePhosphorus](https://leetcode.com/u/whitePhosphorus/)
 ___
