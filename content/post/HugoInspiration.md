@@ -11,4 +11,4 @@ This man has been the inspiration behind me using Hugo.
 [Based Cooking](https://based.cooking): Minimal, fast and no ads.
 
 I made pancakes using this site lol
-[Pancake image](https://i.imgur.com/sku8XTt.jpeg)
+![Pancake image](https://i.imgur.com/sku8XTt.jpeg)

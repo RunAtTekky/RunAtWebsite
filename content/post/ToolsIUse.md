@@ -13,6 +13,9 @@ tags = ['Linux', 'Workflow', 'Tech']
 # Terminal Multiplexer
 - TMUX
 
+# Window Manager
+- i3wm
+
 # File Manager
 - [Ranger](/post/ranger) (I want to switch to LF soon)
 
