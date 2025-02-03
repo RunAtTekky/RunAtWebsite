@@ -14,4 +14,9 @@ This is the score of chess games between RunAt and Sike
 
 
 Matches
-2025_02_03 : RunAt 1 - Sike 0 (Black Resigns)
+
+2025_02_03
+
+RunAt 1 - Sike 0
+
+(Black Resigns)
