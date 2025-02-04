@@ -2,6 +2,19 @@
 <html lang="{{ .Site.LanguageCode }}">
 {{ partial "head.html" . }}
 
+ <!-- To open links in new tabs -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll("a").forEach(function(link) {
+      if (link.hostname !== window.location.hostname) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
+    });
+  });
+</script>
+
+
 <body>
   {{ partial "header" . }}
   {{ partial "search.html" .}}

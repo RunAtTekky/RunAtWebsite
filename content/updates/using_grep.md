@@ -10,8 +10,12 @@ Downloaded the html file which had responses of around 100+ people.
 
 Used the grep command to match the leetcode profile pattern 
 
-`grep -oP 'leetcode\.com/u/[^/]+' filename.txt > leetcode_accounts.txt`
+## Command
+```
+grep -oP 'leetcode\.com/u/[^/]+' filename.html > leetcode_accounts.txt
+```
 
+## Accounts
 [mfCDcxL07l](https://leetcode.com/u/mfCDcxL07l)
 
 [gautamharshit92](https://leetcode.com/u/gautamharshit92)
@@ -46,7 +50,7 @@ Used the grep command to match the leetcode profile pattern
 
 [Vamhaze](https://leetcode.com/u/Vamhaze)
 
-[Pink](https://leetcode.com/u/Pink-Centipede)
+[Pink-Centipede](https://leetcode.com/u/Pink-Centipede)
 
 [Deepti1602](https://leetcode.com/u/Deepti1602)
 
