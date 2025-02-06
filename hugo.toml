@@ -1,6 +1,6 @@
 baseURL = 'https://run-at-website.vercel.app/'
 languageCode = 'en-us'
-title = 'Varun Rawat'
+title = 'RunAt'
 theme = 'github-style'
 
 [params]
