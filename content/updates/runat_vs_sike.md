@@ -6,6 +6,8 @@ draft = false
 
 # RunAt vs Sike
 
+[Google Sheet](https://docs.google.com/spreadsheets/d/1_j-15uR0CoS-Gs2AelNdAup3Y8q6dQoOAy-nE2lZ7VU/edit?usp=sharing)
+
 This is the score of chess games between RunAt and Sike
 
 The person who has better score till one person gets placed will keep the chessbase premium chess set.
