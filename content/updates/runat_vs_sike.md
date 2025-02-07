@@ -12,7 +12,7 @@ The person who has better score till one person gets placed will keep the chessb
 
 |RunAt | Sike |
 |------|------|
-|1     |0     |
+|4     |0     |
 
 ___
 ## Matches
@@ -24,3 +24,22 @@ ___
 RunAt 1 - Sike 0
 
 (Black Resigns)
+___
+
+2025_02_05
+
+RunAt 1 - Sike 0
+
+(White wins by timeout)
+___
+
+2025_02_07
+
+RunAt 1 - Sike 0
+
+(White wins by checkmate)
+
+RunAt 1 - Sike 0
+
+(White wins by checkmate)
+___
