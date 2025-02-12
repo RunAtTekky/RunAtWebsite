@@ -14,7 +14,7 @@ The person who has better score till one person gets placed will keep the chessb
 
 |RunAt | Sike |
 |------|------|
-|8     |0     |
+|8     |2     |
 
 ___
 ## Matches
@@ -66,5 +66,14 @@ ___
 8. Sike 0 - RunAt 1
 
 (Black wins by timeout)
-___
 
+9. RunAt 0 - Sike 1
+
+(Black wins by checkmate)
+___
+2025_02_10
+
+10. RunAt 0 - Sike 1
+
+(Black wins by checkmate)
+___
