@@ -14,7 +14,7 @@ The person who has better score till one person gets placed will keep the chessb
 
 |RunAt | Sike |
 |------|------|
-|9     |2     |
+|10     |2     |
 
 ___
 ## Matches
@@ -83,4 +83,8 @@ ___
 11. RunAt 1 - Sike 0
 
 (White wins by resignation)
+
+12. RunAt 1 - Sike 0
+
+(White wins by timeout)
 ___
