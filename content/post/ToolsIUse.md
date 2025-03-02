@@ -18,6 +18,7 @@ tags = ['Linux', 'Workflow', 'Tech']
 
 # File Manager
 - [Ranger](/post/ranger) (I want to switch to LF soon)
+- [LF](/post/lf) (Switch DONE)
 
 # PDF Viewer
 - Zathura
