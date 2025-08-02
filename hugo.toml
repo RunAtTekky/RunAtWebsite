@@ -1,5 +1,33 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.runat.xyz'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-
+title = 'RunAt Blog'
 theme = "hugo-blog-awesome"
+
+[params]
+  goToTop = true
+
+[params.author]
+  name = "RunAt"
+  avatar = "images/avatar.jpg"
+  intro = "RunAt"
+  description = "Welcome to RunAt's blog"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/runattekky"
+
+ [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/post/"
+  weight = 5
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 10
+
