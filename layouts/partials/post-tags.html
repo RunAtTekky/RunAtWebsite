@@ -1,0 +1,7 @@
+{{ if .Params.tags }}
+<div class="post-tags">
+    {{ range .Params.tags }}
+    <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag" title="View all posts tagged with {{ . }}">#{{ . }}</a>
+    {{ end }}
+</div>
+{{ end }}
