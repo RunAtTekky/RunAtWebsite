@@ -7,7 +7,7 @@ tags = ['tech', 'dev']
 # Domain
 Heyaaaaaa!!!!!
 
-I brought a domain. SIUUUUUUU
+I bought a domain. SIUUUUUUU
 
 This is the domain I brought [runat.xyz](https://runat.xyz)
 
