@@ -2,6 +2,7 @@
 title = 'ARCH BTW'
 date = 2025-08-21T14:33:39+05:30
 draft = false
+tags = ['tech', 'linux']
 +++
 - Arch BTW
 - Hyprland BTW
