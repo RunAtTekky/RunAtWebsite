@@ -11,6 +11,14 @@ But on actual phone browser you have top and bottom bars which causes the websit
 What if there was a simple way of opening the `localhost` on your mobile device.
 Today we will learn how to do that.
 
+## TL;DR (Too Long; Didn't Read)
+Run your application on `localhost:PORT` on your computer
+
+Find your computer's `IP address` by `ip address | grep "inet " | grep -v 127.0.0.1` command
+
+On your mobile phone visit the `IPaddress:PORT` of your computer using the browser.
+
+
 ## Solution
 Run your application server on `localhost:port`
 You can do this however you want. I'm using `live-server` program which I installed using `npm`.
@@ -20,7 +28,7 @@ For me this was `localhost:8080`.
 
 What we need to do is connect to our computer's `IP address`.
 
-Run the following command if you are on linux, I don't know about windows.
+Run the following command if you are on linux, I don't know about windows, please check yourself.
 ```bash
 ip address | grep "inet " | grep -v 127.0.0.1
 ```

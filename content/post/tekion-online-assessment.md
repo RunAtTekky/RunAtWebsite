@@ -1,7 +1,7 @@
 +++
 title = 'Tekion Online Assessment'
 date = 2025-08-24T18:25:20+05:30
-draft = false
+draft = true
 tags = ['tech', 'college', 'hiring']
 +++
 Compensation: 20 LPA (if converted)
@@ -15,6 +15,13 @@ Easy + Hard was mentioned.
 "Easy" was actually "medium".
 
 20 MCQ on core subjects
+
+### TL;DR (Too Long; Didn't Read)
+> DSA 1: 15/15 testcases passed
+
+> DSA 2: 5/15 testcases passed
+
+> MCQ: Based on OS, DBMS, coding best practices and time complexity of code (OKayish performance)
 
 ## DSA 1:
 arr = [2, 4, 6, 8, 10], k = 4

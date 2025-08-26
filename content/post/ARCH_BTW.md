@@ -4,11 +4,14 @@ date = 2025-08-21T14:33:39+05:30
 draft = false
 tags = ['tech', 'linux']
 +++
-- Arch BTW
-- Hyprland BTW
-- Neovim BTW
+- [Arch](https://archlinux.org/) BTW
+- [Omarchy](http://omarchy.org/) BTW
+- [Hyprland](https://hypr.land/) BTW
+- [Neovim](https://neovim.io/) BTW
 
 > Installed [Arch](https://arch.org) and used [Omarchy](https://omarchy.org) to configure my setup on 20th August 2025.
+
+> Think of Omarchy as script which would [rice](https://jie-fang.github.io/blog/basics-of-ricing) your computer.
 
 ## Disk space
 It removes everything on your computer.

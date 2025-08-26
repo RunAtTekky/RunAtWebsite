@@ -2,6 +2,7 @@
 title = 'Dev Setup Zellij'
 date = 2025-08-26T00:56:21+05:30
 draft = false
+tags = ['tech', 'dev', 'linux']
 +++
 Using [Zellij](https://zellij.dev/) I am able to quickly setup my dev environment.
 
@@ -16,7 +17,7 @@ I have created an alias for the following
 `alias zs="zellij --layout ~/.config/zellij/my-dev-setup.kdl"`
 
 The file `my-dev-setup.kdl` is:
-```kdl
+```yaml
 layout {
     default_tab_template {
         children

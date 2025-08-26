@@ -2,6 +2,7 @@
 title = 'Learn Docker'
 date = 2025-08-21T20:54:20+05:30
 draft = false
+tags = ['dev', 'tech']
 +++
 I was tinkering through [Omarchy](/post/arch_btw) keybindings.
 

@@ -22,3 +22,7 @@ Here is my GitHub [Repo](https://github.com/RunAtTekky/Learn-GO-with-tests) for 
 
 > TDD encourages simple designs and inspires confidence
 
+
+## TDD Cycle
+![TDD Process](https://www.lambdatest.com/dynamic-pages/resources/images/learning-hub/tdd-process.png)
+
